@@ -2,8 +2,6 @@ This repository is a collection of Python concepts, examples, and mini-projects 
 
 I’m sharing my progress publicly to stay consistent, learn deeply, and (hopefully) help others who are also learning Python.
 
-📂 Repository Structure
-Day 1: Lambda Functions – Quick one-line functions for small tasks
 
 (More concepts will be added as I learn!)
 
